@@ -26,15 +26,15 @@ Zuerst habe ich im Modul 295 das LernVideo auf LinkedIn fertigeschaut da ich das
 
 ### 17.01.2025
 
-- [ ] LB im Modul 450, Mock Klassen nach UML-Diagramm Implementieren
-- [ ] Lb im Modul 450, Die Funktionalität meines Codes fertigstellen
-- [ ] LB im Moudl 450, mittels Debugger einen Fehler lösen.
-- [ ] Lb im Modul 450, ein Codereview zu meinem Code schreiben. 
+- [x] LB im Modul 450, Mock Klassen nach UML-Diagramm Implementieren
+- [x] Lb im Modul 450, Die Funktionalität meines Codes erweitern
+- [x] LB im Moudl 450, UnitTest für die Klasse Benutzer schreiben
+- [ ] LB im Modul 450, ein Codereview zu meinem Code schreiben. 
       
 &nbsp;
 
 **Heute habe ich**   
-...
+Heute habe ich an der LB im Modul 450 gerbeitet. Ich habe ein neues Projekt zum Testen erstellt und in diesem dann die Mock Klassen erstellt die ich im UML Diagramm definiert habe. Danach habe ich einen Unittest erstellt um die Klasse Benutzer zu testen mit Hilfe des Mocks denn ich erstellt hatte. Anschliessend habe ich meine Dokumentation überarbeitet und detailiert beschrieben was ich gemacht habe und wiso. Am Ende hatte ich die Logik meines Codes noch verändert dami diese mehr Sinn macht und musste dies dann noch in meinem UML Diagramm anpassen.
 &nbsp;
  
 &nbsp;
@@ -50,3 +50,5 @@ Zuerst habe ich im Modul 295 das LernVideo auf LinkedIn fertigeschaut da ich das
 &nbsp;
 
 **Heute habe ich**   
+
+nächste woche für woche 31.01 nur  arbeitspackete
