@@ -26,6 +26,21 @@ Zuerst habe ich im Modul 295 das LernVideo auf LinkedIn fertigeschaut da ich das
 
 ### 17.01.2025
 
+- [ ] LB im Modul 450, Mock Klassen nach UML-Diagramm Implementieren
+- [ ] Lb im Modul 450, Die Funktionalität meines Codes fertigstellen
+- [ ] LB im Moudl 450, mittels Debugger einen Fehler lösen.
+- [ ] Lb im Modul 450, ein Codereview zu meinem Code schreiben. 
+      
+&nbsp;
+
+**Heute habe ich**   
+...
+&nbsp;
+ 
+&nbsp;
+
+### 24.01.2025
+
 - [ ] Anfangen mit meinem Tic-Tac-Toe Spiel, Projekt erstellen und gedanken machen wie es aufgebaut sein soll.
 - [ ] Startscreen des SPieles erstellen mit auswahl der "Modi"
 - [ ]  Spielüberfäche erstellen (Spielfed, auswahlmöglichkeiten, Punkteanzeige)
