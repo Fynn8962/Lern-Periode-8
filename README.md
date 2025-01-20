@@ -41,8 +41,8 @@ Heute habe ich an der LB im Modul 450 gerbeitet. Ich habe ein neues Projekt zum 
 
 ### 24.01.2025
 
+- [ ] MIt Pyhton vertraut machen (Tutorials schauehn, Projekt erstellen)
 - [ ] Anfangen mit meinem Tic-Tac-Toe Spiel, Projekt erstellen und gedanken machen wie es aufgebaut sein soll.
-- [ ] Startscreen des SPieles erstellen mit auswahl der "Modi"
 - [ ]  Spielüberfäche erstellen (Spielfed, auswahlmöglichkeiten, Punkteanzeige)
 - [ ]  Logik / Spielregeln von Tic-Tac-Toe anfangen zu Coden.
       
