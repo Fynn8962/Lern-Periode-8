@@ -57,8 +57,9 @@ Ich habe mir zuerst ein Tutorial angeschaut über Python Grundlagen in welchem e
 
 ### 31.01.2025
 
-- [ ] MIt Pyhton vertraut machen (Tutorials schauehn, Projekt erstellen)
-
+- [ ] Den "Computer" gegen den man spielt besser umsetzen
+- [ ] Möglichkeit mehrmals zu spielen einbauen (evt. Punkteanzeige)
+- [ ] Spielmodi um gegen einen anderen Spieler zu spielen 
       
       
 &nbsp;
