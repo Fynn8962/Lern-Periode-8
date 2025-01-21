@@ -41,14 +41,16 @@ Heute habe ich an der LB im Modul 450 gerbeitet. Ich habe ein neues Projekt zum 
 
 ### 24.01.2025
 
-- [ ] MIt Pyhton vertraut machen (Tutorials schauehn, Projekt erstellen)
-- [ ] Anfangen mit meinem Tic-Tac-Toe Spiel, Projekt erstellen und gedanken machen wie es aufgebaut sein soll.
-- [ ]  Spielüberfäche erstellen (Spielfed, auswahlmöglichkeiten, Punkteanzeige)
-- [ ]  Logik / Spielregeln von Tic-Tac-Toe anfangen zu Coden.
+- [x] MIt Pyhton vertraut machen (Tutorials schauehn, Projekt erstellen)
+- [x] Anfangen mit meinem Tic-Tac-Toe Spiel, Projekt erstellen und gedanken machen wie es aufgebaut sein soll.
+- [x]  Spielüberfäche erstellen (Spielfed, Eingabe, Ausgabe )
+- [ ]  Logik / Spielregeln von Tic-Tac-Toe Coden.
       
       
 &nbsp;
 
 **Heute habe ich**   
+Ich habe mir zuerst ein Tutorial angeschaut über Python Grundlagen in welchem erklärt wurde wie man ein Projekt erstellt und wie der Grundlegende Syntax ist. Als ich Vertraut war mit dem was ich wissen wollte fieng ich an mit dem Spiel. Ich wusste Anfangs nicht wie ich das Spielfeld am besten umsetzen soll wehsalb ich das gegoogelt habe. Nachdem ich das Spielfeld mittels einens dictionarys erstellt hatte habe ich ohne Tutorial weitergemacht. Das was mir am meisten Probleme machte war der Syntax von Python und dass ich viele Schreibewisen nicht wusste (while, if-else, switchcase). Auch das Python ohne geschwungene Klammern arbeitet war anfangs ungewohnt und etwas verwirrend. Schlussendlich konnte ich aber das SPiel fertig Coden. Der "Bot" gegen den man Spilt hat noch keine Logik was es sehr einfach macht zu gewinnen. Den Code habe ich hochgeladen.
+
 
 nächste woche für woche 31.01 nur  arbeitspackete
