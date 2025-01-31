@@ -58,12 +58,23 @@ Ich habe mir zuerst ein Tutorial angeschaut über Python Grundlagen in welchem e
 ### 31.01.2025
 
 - [ ] Zweiter Spielmodus damit Spieler gegen Spieler gespielt werden kann. 
-- [ ] Möglichkeit mehrmals zu spielen einbauen (evt. Punkteanzeige)
-- [ ] Fehler beheben, z.b Was passiert wenn es keinen gewinner gibt.
+- [x] Möglichkeit mehrmals zu spielen einbauen (evt. Punkteanzeige)
+- [x] Fehler beheben, z.b Was passiert wenn es keinen gewinner gibt.
       
       
 &nbsp;
 
 **Heute habe ich**   
+Ich habe in meinem Python Tic-Tac-Toe game hinzugefügt das man mehere Runden spielen kann bis der Spieler oder der Computer 3 Punkte hat. Die Umsetzung ging sehr schnell da ich einfach eine While Schleife machen welche die Punkte überprüft und jedesmal wenn wenn ein Punkt erzielt wird geht Spielerpunkte oder Computerpunkte um eins höher. Danach habe ich gemerkt das es ja auch Uentschieden geben kann und mein code darauf nicht reagiert. Deshalb habe ich noch zusätzlich zu check_winner eine Funtktion die check_tie macht und überprüft ob alle Felder im Spielfeld bestzt sind. Die Umsetzung damit man Spieler gegen Spieler spielen kann habe ich nicht fertig geschafft da ich die übersicht verloren habe. Ich habe dann das Projekt ohne denn Versuch der PvP version Hochgeladen damit das Programm Funktioniert.
+
+&nbsp;
+ 
+&nbsp;
+
+# Reflexion
+In dieser Kurzen Lernperiode habe ich mich zum ersten mal mit Python beschäftigt. Ich habe mir zuerst ein Grundwissen über den Python Syntax oder über die Entwicklungsumgebung in der ich arbeiten muss erarbeitet und habe dann in VScode mit meinem Tic-Tac-Toe Projekt begonnen. Mein grösstes Problem war der neue Syntax vorallem ohne geschweifte Klammern was es etwas unübersichtlicher gemacht hat für mich. Dennoch konnte ich mir ein gutes wissen über Funktionen, Schleifen etc. erarbeiten und habe einen guten Einblick in Python erhalten. Das das Projekt sehr simpel war würde ich gerne, da es mir viel Spass gemacht hat, ein weiter etwas Komplexeres Python Projekt erstellen das auch in mehrere Files aufgeteilt ist damit es übersichtlicher ist. Als nächstes Projekt möchte ich etwas mit Python machen was nicht nur in der Konsole stattfindet. (DigitalUhr mit Welcker stopuhr timer etc)
+
+# Mein Projekt
+Mein Projekt ist ein Einfaches Pyhton Tic-Tac-Toe Spiel gegen einen Randomized "Bot". Man kann ds Feld auswählen auf welches man Setzen will. Gewinnt man bekommt man einen Punkt. Wer zuerst Drei Punkte hat hat gewonnen.
 
 
