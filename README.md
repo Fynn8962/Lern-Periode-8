@@ -1,4 +1,4 @@
-![LP8-png-Python](https://github.com/user-attachments/assets/df23c67a-0106-4976-8e82-9ba148570b91)# Lern-Periode-8
+
 
 Fynn Huber
 10.01.2025
