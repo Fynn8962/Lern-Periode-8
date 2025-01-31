@@ -77,6 +77,6 @@ In dieser Kurzen Lernperiode habe ich mich zum ersten mal mit Python beschäftig
 # Mein Projekt
 Mein Projekt ist ein Einfaches Pyhton Tic-Tac-Toe Spiel gegen einen Randomized "Bot". Man kann ds Feld auswählen auf welches man Setzen will. Gewinnt man bekommt man einen Punkt. Wer zuerst Drei Punkte hat hat gewonnen.
 
-<img src="https://github.com/Fynn8962/Lern-Periode-8/images/LP8-Gif-Python.gif" alt="GIF Spiel Python" width="500" >
+<img src="https://github.com/Fynn8962/Lern-Periode-8/images/LP8-Gif-Python1.gif" alt="GIF Spiel Python" width="500" >
 <img src="https://github.com/Fynn8962/Lern-Periode-8/images/LP8-Gif-Python.png" alt="GIF Spiel Python" width="500" >
 
