@@ -74,6 +74,10 @@ Ich habe in meinem Python Tic-Tac-Toe game hinzugefügt das man mehere Runden sp
 # Reflexion
 In dieser Kurzen Lernperiode habe ich mich zum ersten mal mit Python beschäftigt. Ich habe mir zuerst ein Grundwissen über den Python Syntax oder über die Entwicklungsumgebung in der ich arbeiten muss erarbeitet und habe dann in VScode mit meinem Tic-Tac-Toe Projekt begonnen. Mein grösstes Problem war der neue Syntax vorallem ohne geschweifte Klammern was es etwas unübersichtlicher gemacht hat für mich. Dennoch konnte ich mir ein gutes wissen über Funktionen, Schleifen etc. erarbeiten und habe einen guten Einblick in Python erhalten. Das das Projekt sehr simpel war würde ich gerne, da es mir viel Spass gemacht hat, ein weiter etwas Komplexeres Python Projekt erstellen das auch in mehrere Files aufgeteilt ist damit es übersichtlicher ist. Als nächstes Projekt möchte ich etwas mit Python machen was nicht nur in der Konsole stattfindet. (DigitalUhr mit Welcker stopuhr timer etc)
 
+&nbsp;
+ 
+&nbsp;
+
 # Mein Projekt
 Mein Projekt ist ein Einfaches Pyhton Tic-Tac-Toe Spiel gegen einen Randomized "Bot". Man kann ds Feld auswählen auf welches man Setzen will. Gewinnt man bekommt man einen Punkt. Wer zuerst Drei Punkte hat hat gewonnen.
 
