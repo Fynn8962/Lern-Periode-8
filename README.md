@@ -59,7 +59,7 @@ Ich habe mir zuerst ein Tutorial angeschaut über Python Grundlagen in welchem e
 
 - [ ] Den "Computer" gegen den man spielt besser umsetzen
 - [ ] Möglichkeit mehrmals zu spielen einbauen (evt. Punkteanzeige)
-- [ ] Spielmodi um gegen einen anderen Spieler zu spielen 
+- [ ] Fehler beheben, z.b Was passiert wenn es keinen gewinner gibt.
       
       
 &nbsp;
