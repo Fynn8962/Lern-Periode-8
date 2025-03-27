@@ -3,6 +3,16 @@
 Fynn Huber
 10.01.2025
 
+# Mein Projekt
+Mein Projekt ist ein einfaches Python Tic-Tac-Toe Spiel gegen einen Randomized "Bot". Man kann das Feld auswählen, auf welches man Setzen will. Gewinnt man, bekommt man einen Punkt. Wer zuerst Drei Punkte hat, hat gewonnen.
+
+<img src="https://github.com/Fynn8962/Lern-Periode-8/blob/main/LP8-Gif-Python1.gif" alt="Gif Python Spiel" width="500" >
+<img src="https://github.com/Fynn8962/Lern-Periode-8/blob/main/LP8-png-Python.png" alt="GIF zu Responsive Design" width="500" >
+
+&nbsp;
+ 
+&nbsp;
+
 ## Grob-Planung
 Da wir diese lern-Periode nur 4 Sitzungen Zeit haben ist dies gut um ein etwas kleines zu machen wie zum Beispiel eine neue Sprache oder neue Techniken auszuprobieren. Ich möchte eine kleine Konsolen-Applikation mit Python machen. Ich möchte etwas klassisches simples wie zum Beispiel ein Tic-Tac-Toe Game machen. 
 
@@ -78,8 +88,4 @@ n dieser kurzen Lernperiode habe ich mich zum ersten Mal mit Python beschäftigt
  
 &nbsp;
 
-# Mein Projekt
-Mein Projekt ist ein einfaches Python Tic-Tac-Toe Spiel gegen einen Randomized "Bot". Man kann das Feld auswählen, auf welches man Setzen will. Gewinnt man, bekommt man einen Punkt. Wer zuerst Drei Punkte hat, hat gewonnen.
 
-<img src="https://github.com/Fynn8962/Lern-Periode-8/blob/main/LP8-Gif-Python1.gif" alt="Gif Python Spiel" width="500" >
-<img src="https://github.com/Fynn8962/Lern-Periode-8/blob/main/LP8-png-Python.png" alt="GIF zu Responsive Design" width="500" >
