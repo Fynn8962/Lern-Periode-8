@@ -4,10 +4,13 @@ Fynn Huber
 10.01.2025
 
 # Mein Projekt
-Mein Projekt ist ein einfaches Python Tic-Tac-Toe Spiel gegen einen Randomized "Bot". Man kann das Feld auswählen, auf welches man Setzen will. Gewinnt man, bekommt man einen Punkt. Wer zuerst Drei Punkte hat, hat gewonnen.
+Mein Projekt ist ein einfaches Python Tic-Tac-Toe Spiel gegen einen Randomized "Bot". Man kann das Feld  mittels drücken der Zahl auf der Tastatur auswählen, auf welches man Setzen will. Gewinnt man eine Runde, bekommt man einen Punkt. Wer zuerst Drei Punkte hat, gewinnt das Spiel. Durch überprüfung der Felder ist es nicht möglich Felder mehrmals zu wählen. Ist es unentschieden wird das Spiel einfach weitergeführt. 
 
+**Gameplay:**
 <img src="https://github.com/Fynn8962/Lern-Periode-8/blob/main/LP8-Gif-Python1.gif" alt="Gif Python Spiel" width="500" >
-<img src="https://github.com/Fynn8962/Lern-Periode-8/blob/main/LP8-png-Python.png" alt="GIF zu Responsive Design" width="500" >
+
+**Spielbrett:**
+<img src="https://github.com/Fynn8962/Lern-Periode-8/blob/main/LP8-png-Python.png" alt="" width="500" >
 
 &nbsp;
  
