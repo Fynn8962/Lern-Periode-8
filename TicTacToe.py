@@ -126,12 +126,13 @@ while playerPoints < 3 and computerPoints < 3:
         print_board()
         check_winner()
         check_tie()
-        if check_tie():
-            print("Unentschieden")
-            break
+        
         if (playerWon == True):
             computerPoints += 1
             print("Computer hat gewonnen!")
             print("Computer hat " + str(computerPoints) + " Punkte")
-
             break
+        if check_tie():
+            print("Unentschieden")
+            break
+            
